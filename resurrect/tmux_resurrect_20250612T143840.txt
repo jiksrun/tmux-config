@@ -1,0 +1,3 @@
+pane	ipynb	1	1	:*	1	archlinux	:/home/jiksrun	1	zsh	:
+window	ipynb	1	:zsh	1	:*	cc3d,170x48,0,0,0	:
+state	ipynb	

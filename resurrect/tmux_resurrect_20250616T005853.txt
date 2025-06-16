@@ -1,0 +1,9 @@
+pane	jiksrun	1	0	:	1	archlinux	:/home/jiksrun/Documents/belajar/git/basic	1	zsh	:
+pane	jiksrun	2	0	:-	1	archlinux	:/home/jiksrun	1	nvim	:nvim
+pane	jiksrun	3	0	:	1	archlinux	:/home/jiksrun/Documents/belajar/git/basic	1	zsh	:
+pane	jiksrun	4	1	:*	1	archlinux	:/home/jiksrun/Documents/notes	1	nvim	:nvim note_nvim
+window	jiksrun	1	:zsh	0	:	c8bd,156x37,0,0,0	:
+window	jiksrun	2	:nvim	0	:-	c8be,156x37,0,0,1	:
+window	jiksrun	3	:zsh	0	:	c8c1,156x37,0,0,4	:
+window	jiksrun	4	:nvim	1	:*	c8c2,156x37,0,0,5	:
+state	jiksrun	

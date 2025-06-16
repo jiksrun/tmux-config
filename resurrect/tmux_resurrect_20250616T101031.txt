@@ -1,0 +1,9 @@
+pane	jiksrun	1	0	:	1	archlinux	:/home/jiksrun/.config/nvim	1	nvim	:nvim init.lua
+pane	jiksrun	2	0	:	1	archlinux	:/home/jiksrun/Documents/kuliah/pasd/PASD_KostPutraMR	1	nvim	:nvim main.py
+pane	jiksrun	3	0	:-	1	archlinux	:/home/jiksrun/.config/kitty	1	nvim	:nvim kitty.conf
+pane	jiksrun	4	1	:*	1	archlinux	:/home/jiksrun/.config/kitty	1	zsh	:
+window	jiksrun	1	:nvim	0	:	ce3d,170x39,0,0,0	:
+window	jiksrun	2	:nvim	0	:	ce3e,170x39,0,0,1	:
+window	jiksrun	3	:nvim	0	:-	ce42,170x39,0,0,5	:
+window	jiksrun	4	:zsh	1	:*	ce44,170x39,0,0,7	:
+state	jiksrun	

@@ -1,0 +1,6 @@
+pane	jiksrun	1	0	:-	1	archlinux	:/home/jiksrun	1	python3.11	:/home/jiksrun/tf_3_11_venv/bin/python3.11 /home/jiksrun/tf_3_11_venv/bin/jupyter-lab
+pane	jiksrun	2	1	:*	1	archlinux	:/home/jiksrun/Documents/belajar/streamlit/my_app	0	nvim	:nvim main.py
+pane	jiksrun	2	1	:*	2	archlinux	:/home/jiksrun/Documents/belajar/streamlit/my_app	1	zsh	:
+window	jiksrun	1	:python3.11	0	:-	cc3d,170x48,0,0,0	:
+window	jiksrun	2	:zsh	1	:*	fecf,170x48,0,0{85x48,0,0,8,84x48,86,0,13}	:
+state	jiksrun	

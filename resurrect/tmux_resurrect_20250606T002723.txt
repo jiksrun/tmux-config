@@ -1,0 +1,7 @@
+pane	jiksrun	1	0	:	1	archlinux	:/home/jiksrun	1	python3.11	:/home/jiksrun/tf_3_11_venv/bin/python3.11 /home/jiksrun/tf_3_11_venv/bin/jupyter-lab
+pane	jiksrun	2	0	:-	1	archlinux	:/home/jiksrun/.config/tmux/config	1	nvim	:nvim keybindings.conf
+pane	jiksrun	3	1	:*	1	archlinux	:/home/jiksrun	1	zsh	:
+window	jiksrun	1	:[tmux]	0	:	cc3d,170x48,0,0,0	:
+window	jiksrun	2	:nvim	0	:-	cc3e,170x48,0,0,1	:
+window	jiksrun	3	:zsh	1	:*	cc3f,170x48,0,0,2	:
+state	jiksrun	
